@@ -1,0 +1,1031 @@
+[
+  {
+    "ExampleId": 131433769344092,
+    "HITId": "366FYU4PTGOLTBYSVTX10PB06QUEKT",
+    "Complex": "Obama said that children today still fail to meet their full potential, even if there are no mobs with bricks and bottles to ward young black women away from higher education.",
+    "Simplified": "young black women are away from higher education.",
+    "Insertion": 0
+  },
+  {
+    "ExampleId": 325733569371735,
+    "HITId": "366FYU4PTGOLTBYSVTX10PB06QUEKT",
+    "Complex": "Mayfield wrote and sang on a string of message-oriented records, including \"Keep on Pushing\" and \"People Get Ready.\"",
+    "Simplified": "he sang on a string of music records.",
+    "Insertion": 0
+  },
+  {
+    "ExampleId": 330788879319804,
+    "HITId": "366FYU4PTGOLTBYSVTX10PB06QUEKT",
+    "Complex": "Some growers with good reputations on labor issues say Wal-Mart consistently partners with producers with the lowest prices, regardless of labor conditions.",
+    "Simplified": "some growers with good reputations on labor issues say partners.",
+    "Insertion": -1
+  },
+  {
+    "ExampleId": 501050939011986,
+    "HITId": "366FYU4PTGOLTBYSVTX10PB06QUEKT",
+    "Complex": "Pastors across Alabama reacted in varying ways to the advent of same-sex marriage.",
+    "Simplified": "pastors across alabama reacted in varying ways.",
+    "Insertion": 0
+  },
+  {
+    "ExampleId": 346684197831674,
+    "HITId": "366FYU4PTGOLTBYSVTX10PB06QUEKT",
+    "Complex": "After this popping process, the fluffy corn is twice as large as the original kernel.",
+    "Simplified": "the fluffy corn is twice as large as the original kernel.",
+    "Insertion": 0
+  },
+  {
+    "ExampleId": 679278550358642,
+    "HITId": "366FYU4PTGOLTBYSVTX10PB06QUEKT",
+    "Complex": "Lancaster Mayor Parris really wants the government to build the bomber.",
+    "Simplified": "lancaster mayor parris really wants the government to build it.",
+    "Insertion": 0
+  },
+  {
+    "ExampleId": 425248185068862,
+    "HITId": "366FYU4PTGOLTBYSVTX10PB06QUEKT",
+    "Complex": "CHICAGO-President Barack Obama is expected to choose the site for his library in less than two months.",
+    "Simplified": "chicago-president barack obama is expected to be less than two months.",
+    "Insertion": 0
+  },
+  {
+    "ExampleId": 476673289433746,
+    "HITId": "366FYU4PTGOLTBYSVTX10PB06QUEKT",
+    "Complex": "Teams with third-graders-even second-graders-are popping up.",
+    "Simplified": "teams with third-graders-even second-graders..",
+    "Insertion": -1
+  },
+  {
+    "ExampleId": 20471935475666,
+    "HITId": "366FYU4PTGOLTBYSVTX10PB06QUEKT",
+    "Complex": "There are many variations, Babb said-\"ropy, wrinkled, billowy, slabby, sticky, glassy\"-and most all of them are to be found here on the southeast edge of the Big Island.",
+    "Simplified": "most all of them are to be found here on southeast.",
+    "Insertion": -1
+  },
+  {
+    "ExampleId": 372107380199946,
+    "HITId": "366FYU4PTGOLTBYSVTX10PB06QUEKT",
+    "Complex": "Digitizing will physically preserve these tender papers and allow people to access them without leaving home, he said.",
+    "Simplified": "tender papers and allow people to live without leaving home.",
+    "Insertion": -1
+  },
+  {
+    "ExampleId": 462462076543093,
+    "HITId": "366FYU4PTGOLTBYSVTX10PB06QUEKT",
+    "Complex": "Baghdadi, wearing a pressed sweater and leather shoes, said he favors writers like the late Iraqi sociologist Ali Wardi and American thriller writer Dan Brown.",
+    "Simplified": "he said he favors writers like ali wardi and american thriller writer dan brown.",
+    "Insertion": 0
+  },
+  {
+    "ExampleId": 826547764189814,
+    "HITId": "366FYU4PTGOLTBYSVTX10PB06QUEKT",
+    "Complex": "She recalls transcribing a letter written by Lincoln in February 1861 to the gentleman who was going to rent his Springfield home for $350 a year.",
+    "Simplified": "she remembers a letter written by lincoln in february.",
+    "Insertion": 0
+  },
+  {
+    "ExampleId": 201780506274218,
+    "HITId": "366FYU4PTGOLTBYSVTX10PB06QUEKT",
+    "Complex": "Mustafa Shahbaz, 26, an engineer shopping for science books and science fiction novels, said he was glad to see the peaceful city he was familiar with, instead of the Baghdad of bombings and shootings.",
+    "Simplified": "mustafa shahbaz is 26, an engineer shopping for science books.",
+    "Insertion": 0
+  },
+  {
+    "ExampleId": 900051208892415,
+    "HITId": "366FYU4PTGOLTBYSVTX10PB06QUEKT",
+    "Complex": "Then he draws a connection between the '50s civil-rights pioneer Rosa Parks and last year's protests in Ferguson, Missouri, over the police slaying of an unarmed African-American resident, Michael Brown:",
+    "Simplified": "then he draws a connection between two parks and ferguson, missouri",
+    "Insertion": 0
+  },
+  {
+    "ExampleId": 534742304559920,
+    "HITId": "366FYU4PTGOLTBYSVTX10PB06QUEKT",
+    "Complex": "\"We don't call them semantic signals like in human language-we call them functionally referential calls,\" said study co-author Simon Townsend, a comparative biologist at the University of Zurich.",
+    "Simplified": "simon townsend is a scientist at the university of zurich.",
+    "Insertion": 0
+  },
+  {
+    "ExampleId": 560057578781040,
+    "HITId": "366FYU4PTGOLTBYSVTX10PB06QUEKT",
+    "Complex": "He is whipped to death for not telling the location of escaped slaves.",
+    "Simplified": "he is not telling them what happened next.",
+    "Insertion": 2
+  },
+  {
+    "ExampleId": 178543516292861,
+    "HITId": "366FYU4PTGOLTBYSVTX10PB06QUEKT",
+    "Complex": "Afterward, a group of teens from the community joined together to bring change to their local schools.",
+    "Simplified": "a group of teens started together to bring change local schools.",
+    "Insertion": 0
+  },
+  {
+    "ExampleId": 389996855802750,
+    "HITId": "366FYU4PTGOLTBYSVTX10PB06QUEKT",
+    "Complex": "The $4 billion Shanghai Disney resort is expected to open late this year with two hotels and a Downtown Disney shopping center.",
+    "Simplified": "the shanghai disney resort is expected to open late this year.",
+    "Insertion": 0
+  },
+  {
+    "ExampleId": 344203955848783,
+    "HITId": "366FYU4PTGOLTBYSVTX10PB06QUEKT",
+    "Complex": "He is an expert at painting detailed designs on kites.",
+    "Simplified": "he is an expert on painting detailed designs.",
+    "Insertion": 0
+  },
+  {
+    "ExampleId": 876183216791964,
+    "HITId": "366FYU4PTGOLTBYSVTX10PB06QUEKT",
+    "Complex": "Hunter-Gault was one of the first black students to attend the previously whites-only University of Georgia.",
+    "Simplified": "hunter-gault was one of the first black students to whites-only.",
+    "Insertion": -1
+  },
+  {
+    "ExampleId": 189862082504069,
+    "HITId": "366FYU4PTGOLTBYSVTX10PB06QUEKT",
+    "Complex": "For that reason and others, most researchers had assumed that referential calls were innate and rigid among nonhuman primates, and not flexible and socially learned as they are among Homo sapiens.",
+    "Simplified": "for that reason and others, most researchers had assumed that referential calls.",
+    "Insertion": -1
+  },
+  {
+    "ExampleId": 712608008012061,
+    "HITId": "366FYU4PTGOLTBYSVTX10PB06QUEKT",
+    "Complex": "After this popping is over, the fluffy corn is twice as large and eight times less dense than the original kernel.",
+    "Simplified": "the fluffy corn is twice as large times.",
+    "Insertion": 0
+  },
+  {
+    "ExampleId": 65133427463409,
+    "HITId": "366FYU4PTGOLTBYSVTX10PB06QUEKT",
+    "Complex": "When the kernel gets very hot-above 100 degrees Celsius (212 degrees Fahrenheit)-the water inside hits its boiling point and turns to steam.",
+    "Simplified": "the kernel gets very hot, above 100 degrees.",
+    "Insertion": 0
+  },
+  {
+    "ExampleId": 763431210301038,
+    "HITId": "366FYU4PTGOLTBYSVTX10PB06QUEKT",
+    "Complex": "When all is said and done, the inverted kernel is twice as large and eight times less dense.",
+    "Simplified": "the inverted kernel is twice as large.",
+    "Insertion": 0
+  },
+  {
+    "ExampleId": 598437206887233,
+    "HITId": "366FYU4PTGOLTBYSVTX10PB06QUEKT",
+    "Complex": "All this creativity was inspired by pain, struggle and bloodshed.",
+    "Simplified": "all this creativity was inspired by pain, struggle and emotional.",
+    "Insertion": 0
+  },
+  {
+    "ExampleId": 680420070506216,
+    "HITId": "366FYU4PTGOLTBYSVTX10PB06QUEKT",
+    "Complex": "They returned to Kentucky, and Henson realized he would have to escape to be free.",
+    "Simplified": "they returned to kentucky, and henson realized he will escape.",
+    "Insertion": 0
+  },
+  {
+    "ExampleId": 130945207207817,
+    "HITId": "366FYU4PTGOLTBYSVTX10PB06QUEKT",
+    "Complex": "Instead, they wanted to understand the physical origins of some of the most famous traits about the food, like what makes it jump and where that pop-pop-pop sound comes from.",
+    "Simplified": "they wanted to understand what origins of some.",
+    "Insertion": -1
+  },
+  {
+    "ExampleId": 533715951511673,
+    "HITId": "366FYU4PTGOLTBYSVTX10PB06QUEKT",
+    "Complex": "\" Flying a kite also elevates your mood.",
+    "Simplified": "he also loves how to do your people's fans.",
+    "Insertion": -1
+  },
+  {
+    "ExampleId": 688137919806577,
+    "HITId": "366FYU4PTGOLTBYSVTX10PB06QUEKT",
+    "Complex": "In 2013, it said that if the government delayed the project for 10 years, more advanced technology could be developed to improve its design.",
+    "Simplified": "in 2013, it said, it could be started to improve its design.",
+    "Insertion": 0
+  },
+  {
+    "ExampleId": 880285218893216,
+    "HITId": "366FYU4PTGOLTBYSVTX10PB06QUEKT",
+    "Complex": "\"You can take any part of the car and talk about how it was engineered and why it's designed the way it is to interact with the rest of the race car,\" he said.",
+    "Simplified": "it's made the way it is to watch.",
+    "Insertion": 0
+  },
+  {
+    "ExampleId": 272232198681092,
+    "HITId": "366FYU4PTGOLTBYSVTX10PB06QUEKT",
+    "Complex": "Mexico supplied 1.3 billion pounds of avocados to the United States in 2014.",
+    "Simplified": "mexico has 1.3 billion pounds of avocados to the united states.",
+    "Insertion": 0
+  },
+  {
+    "ExampleId": 488512249457046,
+    "HITId": "366FYU4PTGOLTBYSVTX10PB06QUEKT",
+    "Complex": "The first lady is a graduate of Princeton University and Harvard Law School.",
+    "Simplified": "he is harvard law school.",
+    "Insertion": -1
+  },
+  {
+    "ExampleId": 130022374865497,
+    "HITId": "366FYU4PTGOLTBYSVTX10PB06QUEKT",
+    "Complex": "One proposal that received particularly strong backing from Erdogan was the introduction of mandatory Ottoman language classes at high schools, although the recommendation was later limited to religious schools.",
+    "Simplified": "one group that received particularly strong backing from erdogan.",
+    "Insertion": 0
+  },
+  {
+    "ExampleId": 595004008347192,
+    "HITId": "366FYU4PTGOLTBYSVTX10PB06QUEKT",
+    "Complex": "At the southern end of the state, in coastal Fairhope, the Rev. Jerry Henry sat in a study lined with books such as Biblia Hebraica and Analytical Greek New Testament, pondering what the changes might mean for the church.",
+    "Simplified": "the changes might mean for the church to help them.",
+    "Insertion": -1
+  },
+  {
+    "ExampleId": 650010894805495,
+    "HITId": "366FYU4PTGOLTBYSVTX10PB06QUEKT",
+    "Complex": "In the midst of it, rapper Common summarizes how words, melody and a protest merged during the civil-rights movement.",
+    "Simplified": "in the midst of it, rapper common summarizes how words, melody and a protest come.",
+    "Insertion": 0
+  },
+  {
+    "ExampleId": 903448687652380,
+    "HITId": "366FYU4PTGOLTBYSVTX10PB06QUEKT",
+    "Complex": "\"Until you know how the sausage is made, you don't know how expensive it is to make that sausage,\" said Josh Updike, creative director of Rethink Leisure & amp; Entertainment, which is working on several projects in China and elsewhere in Asia.",
+    "Simplified": "josh updike is a rethink leisure & amp; entertainment.",
+    "Insertion": -1
+  },
+  {
+    "ExampleId": 924000292795441,
+    "HITId": "366FYU4PTGOLTBYSVTX10PB06QUEKT",
+    "Complex": "According to Ledford, Northrop executives have said they would build substantial parts of the bomber in Palmdale, creating about 1,500 jobs.",
+    "Simplified": "ledford is an parts of the bomber in palmdale.",
+    "Insertion": -1
+  },
+  {
+    "ExampleId": 982452968128873,
+    "HITId": "366FYU4PTGOLTBYSVTX10PB06QUEKT",
+    "Complex": "Two months ago, the Texas Association of Business rented a billboard in Austin (where the state university system is headquartered) to criticize low graduation rates at the University of Texas at San Antonio, where about 44 percent of students are Hispanic.",
+    "Simplified": "two months ago, the texas association of business gave a billboard in austin -lrb-.",
+    "Insertion": 0
+  },
+  {
+    "ExampleId": 449430073001663,
+    "HITId": "366FYU4PTGOLTBYSVTX10PB06QUEKT",
+    "Complex": "A few steps from the statue, dozens of people lined up to enter the open-air courtyard of a cultural center where writers gather every week to share their work.",
+    "Simplified": "dozens of people are lined up to enter the open-air courtyard.",
+    "Insertion": 0
+  },
+  {
+    "ExampleId": 984036508368911,
+    "HITId": "366FYU4PTGOLTBYSVTX10PB06QUEKT",
+    "Complex": "Amy Henrikson, of Sherman, Illinois, and Joan Walters, of Springfield, are among seven volunteers who work in the office deciphering and transcribing handwritten letters and documents either written to or by Lincoln.",
+    "Simplified": "she are among seven volunteers who work in the office.",
+    "Insertion": 0
+  },
+  {
+    "ExampleId": 90114368032279,
+    "HITId": "366FYU4PTGOLTBYSVTX10PB06QUEKT",
+    "Complex": "In the United States and Europe, theme parks rely heavily on inspiration from movies and books.",
+    "Simplified": "in the united states and europe, theme parks bring movies.",
+    "Insertion": 0
+  },
+  {
+    "ExampleId": 551257558016760,
+    "HITId": "366FYU4PTGOLTBYSVTX10PB06QUEKT",
+    "Complex": "Edwards is known for his back-flip off cars after winning races.",
+    "Simplified": "he is known for his back-flip off cars.",
+    "Insertion": 0
+  },
+  {
+    "ExampleId": 140009865475492,
+    "HITId": "366FYU4PTGOLTBYSVTX10PB06QUEKT",
+    "Complex": "After a mostly snowless winter, the Overland Park, Kansas, man enjoyed finally getting to sled with his children on the Presidents Day holiday.",
+    "Simplified": "his children on the presidents day holiday served in the winter.",
+    "Insertion": -1
+  },
+  {
+    "ExampleId": 166998369347192,
+    "HITId": "366FYU4PTGOLTBYSVTX10PB06QUEKT",
+    "Complex": "Other judges agreed with the federal court's decision and started marrying same-sex couples in the morning.",
+    "Simplified": "other judges agreed with the federal court's decision in the morning.",
+    "Insertion": 0
+  },
+  {
+    "ExampleId": 289340661696417,
+    "HITId": "366FYU4PTGOLTBYSVTX10PB06QUEKT",
+    "Complex": "Most of the deep-sea fishing in the high seas is done by bottom trawling, in which heavy nets are scraped across the seafloor.",
+    "Simplified": "the high seas is done by the ocean.",
+    "Insertion": -1
+  },
+  {
+    "ExampleId": 569165559976166,
+    "HITId": "366FYU4PTGOLTBYSVTX10PB06QUEKT",
+    "Complex": "Pops Staples, patriarch of the acclaimed Chicago gospel group the Staple Singers, was touring when he saw media coverage of the event, and was horrified.",
+    "Simplified": "pops staples, patriarch of the acclaimed chicago gospel group the staple singers.",
+    "Insertion": 0
+  },
+  {
+    "ExampleId": 587741104440627,
+    "HITId": "366FYU4PTGOLTBYSVTX10PB06QUEKT",
+    "Complex": "Sixth-graders Jenna Walden and Avarry Wilkerson ended up at a table by themselves, and they noticed that Alexander Scherer, a new student at school, was alone.",
+    "Simplified": "alexander scherer is a new student at school.",
+    "Insertion": 0
+  },
+  {
+    "ExampleId": 956584146223359,
+    "HITId": "366FYU4PTGOLTBYSVTX10PB06QUEKT",
+    "Complex": "Once the dance started, Joe Dunford, a dad, floated from side to side, bouncing his shoulders and nodding to the music.",
+    "Simplified": "joe dunford is a dad in the music.",
+    "Insertion": -1
+  },
+  {
+    "ExampleId": 981404808183726,
+    "HITId": "366FYU4PTGOLTBYSVTX10PB06QUEKT",
+    "Complex": "They could not afford to pay their son's roughly $10,000 cost for classes at the University of Texas at Austin.",
+    "Simplified": "they could not afford to pay their son.",
+    "Insertion": 0
+  },
+  {
+    "ExampleId": 73028787284169,
+    "HITId": "366FYU4PTGOLTBYSVTX10PB06QUEKT",
+    "Complex": "Stowell's staff thinks that even documents pertaining to Lincoln's death and those written in the present will help people connect to who Lincoln was in life.",
+    "Simplified": "stowell's staff thinks that even documents pertaining to lincoln's death.",
+    "Insertion": -1
+  },
+  {
+    "ExampleId": 901347144450827,
+    "HITId": "366FYU4PTGOLTBYSVTX10PB06QUEKT",
+    "Complex": "Edwards said that with every lap, scientific data is involved, from tracking the statistical probability of crashing at different parts of the race to the amount of fuel used by the engine at different speeds in various throttle positions.",
+    "Simplified": "edwards said scientific is involved from tracking the parts of.",
+    "Insertion": -1
+  },
+  {
+    "ExampleId": 95779624052563,
+    "HITId": "366FYU4PTGOLTBYSVTX10PB06QUEKT",
+    "Complex": "The thin layer, or hull, that surrounds the seed, called a pericarp, is also thicker.",
+    "Simplified": "the seed is also a form of thicker.",
+    "Insertion": -1
+  },
+  {
+    "ExampleId": 861993669376092,
+    "HITId": "366FYU4PTGOLTBYSVTX10PB06QUEKT",
+    "Complex": "\"But there is something that connects each of their stories, a common thread that animates their lives, and that is their hunger for and belief in the power of education.\"",
+    "Simplified": "that is their hunger for and belief in many education.",
+    "Insertion": 0
+  },
+  {
+    "ExampleId": 549536237440228,
+    "HITId": "366FYU4PTGOLTBYSVTX10PB06QUEKT",
+    "Complex": "The lava that covers the beach here is an outdoor pahoehoe exhibit worthy of a natural history museum.",
+    "Simplified": "the beach is a exhibit worthy of a natural history museum.",
+    "Insertion": 0
+  },
+  {
+    "ExampleId": 577125162638573,
+    "HITId": "366FYU4PTGOLTBYSVTX10PB06QUEKT",
+    "Complex": "More jobs are being created for educated workers.",
+    "Simplified": "more jobs are being created for educated workers during the world.",
+    "Insertion": 1
+  },
+  {
+    "ExampleId": 588390651327503,
+    "HITId": "366FYU4PTGOLTBYSVTX10PB06QUEKT",
+    "Complex": "She and Tori Sisson of Tuskegee had camped out in a blue and white tent and became the first in Montgomery County to receive a marriage license.",
+    "Simplified": "she and tori sisson of tuskegee got out in a blue and white tent.",
+    "Insertion": 0
+  },
+  {
+    "ExampleId": 648111783637037,
+    "HITId": "366FYU4PTGOLTBYSVTX10PB06QUEKT",
+    "Complex": "By 2013, it became clear the grunts the Dutch chimps made for apples had changed.",
+    "Simplified": "by 2013, the grunts made for apples had changed.",
+    "Insertion": 0
+  },
+  {
+    "ExampleId": 96074979806652,
+    "HITId": "366FYU4PTGOLTBYSVTX10PB06QUEKT",
+    "Complex": "For him, it was over a decades-old plan to build a roadway through Olmsted Linear Park in Atlanta.",
+    "Simplified": "it was over a decades-old plan to get a roadway.",
+    "Insertion": 0
+  },
+  {
+    "ExampleId": 935594797393497,
+    "HITId": "366FYU4PTGOLTBYSVTX10PB06QUEKT",
+    "Complex": "Students from first grade through high school compete in up to five categories-reading, speed, accuracy, comprehension and spelling-as well as reading charts and graphs in Braille.",
+    "Simplified": "reading, speed, accuracy, comprehension and spelling.",
+    "Insertion": -1
+  },
+  {
+    "ExampleId": 798522590657072,
+    "HITId": "366FYU4PTGOLTBYSVTX10PB06QUEKT",
+    "Complex": "But such audits take longer and cost more, added expenses that conflict with Wal-Mart's cost-crunching approach.",
+    "Simplified": "audits cost more, added expenses that conflict with wal-mart.",
+    "Insertion": 0
+  },
+  {
+    "ExampleId": 917503675079950,
+    "HITId": "366FYU4PTGOLTBYSVTX10PB06QUEKT",
+    "Complex": "Driver Carl Edwards was a substitute teacher in Columbia, Missouri, long before he became known for his back-flip off cars after winning races.",
+    "Simplified": "driver carl edwards is a substitute teacher in columbia, missouri.",
+    "Insertion": 0
+  },
+  {
+    "ExampleId": 124401093160415,
+    "HITId": "366FYU4PTGOLTBYSVTX10PB06QUEKT",
+    "Complex": "But then he heard the radio: A massive glacier had crashed down the mountain.",
+    "Simplified": "but then he heard the radio: a huge glacier.",
+    "Insertion": -1
+  },
+  {
+    "ExampleId": 437399477751713,
+    "HITId": "366FYU4PTGOLTBYSVTX10PB06QUEKT",
+    "Complex": "Hauanio remembers his green, pre-volcano beach town on the east end of the Island of Hawaii as \" just one of the beautifulest places on the island.",
+    "Simplified": "hauanio remembers his green and beach town on the island.",
+    "Insertion": 0
+  },
+  {
+    "ExampleId": 422514478342324,
+    "HITId": "366FYU4PTGOLTBYSVTX10PB06QUEKT",
+    "Complex": "It's not the kids, like Lleyton, who are creating demand for competitive basketball at a young age, said Rich Penick, director at MYAS, but \"it's the parents that are driving it.\"",
+    "Simplified": "lleyton are creating demand for basketball at young.",
+    "Insertion": 0
+  },
+  {
+    "ExampleId": 424846383388433,
+    "HITId": "366FYU4PTGOLTBYSVTX10PB06QUEKT",
+    "Complex": "\" Flying a kite also elevates your mood.",
+    "Simplified": "he also loves how to do your people's fans.",
+    "Insertion": 2
+  },
+  {
+    "ExampleId": 248552559289730,
+    "HITId": "366FYU4PTGOLTBYSVTX10PB06QUEKT",
+    "Complex": "There are many types, Babb said-\"ropy, wrinkled, billowy, slabby, sticky, glassy.\"",
+    "Simplified": "there are many types, babb said \"ropy, wrinkled, billowy.\"",
+    "Insertion": 0
+  },
+  {
+    "ExampleId": 619200940736197,
+    "HITId": "366FYU4PTGOLTBYSVTX10PB06QUEKT",
+    "Complex": "Others agreed with the federal court; they started marrying people in the morning.",
+    "Simplified": "others agreed with the federal court; they started trying in morning.",
+    "Insertion": 0
+  },
+  {
+    "ExampleId": 390989823731560,
+    "HITId": "366FYU4PTGOLTBYSVTX10PB06QUEKT",
+    "Complex": "Murdock has been arguing for decades that Texas and other states must do a better job of educating minorities, especially Hispanics.",
+    "Simplified": "murdock has been trying to get decades texas and other states.",
+    "Insertion": -1
+  },
+  {
+    "ExampleId": 978996785714155,
+    "HITId": "366FYU4PTGOLTBYSVTX10PB06QUEKT",
+    "Complex": "Talmus' daughter, Lili Smith, had a rough time in middle school.",
+    "Simplified": "talmus' daughter, lili smith, is an excellent middle school.",
+    "Insertion": -1
+  },
+  {
+    "ExampleId": 134166214673114,
+    "HITId": "366FYU4PTGOLTBYSVTX10PB06QUEKT",
+    "Complex": "Looking for a piece of the action, U.S. theme park giants are investing heavily in Asia.",
+    "Simplified": "u.s. theme park giants are investing a lot in asia.",
+    "Insertion": 0
+  },
+  {
+    "ExampleId": 661666948802327,
+    "HITId": "366FYU4PTGOLTBYSVTX10PB06QUEKT",
+    "Complex": "The weekly book market was destroyed by a car bombing seven years ago that took 26 lives.",
+    "Simplified": "the weekly book market was destroyed by an car.",
+    "Insertion": 0
+  },
+  {
+    "ExampleId": 30820407519395,
+    "HITId": "366FYU4PTGOLTBYSVTX10PB06QUEKT",
+    "Complex": "The struggle they joined in earnest during the'60s shows no sign of abating.",
+    "Simplified": "the struggle joined in earnest during the end.",
+    "Insertion": -1
+  },
+  {
+    "ExampleId": 929443465918437,
+    "HITId": "366FYU4PTGOLTBYSVTX10PB06QUEKT",
+    "Complex": "Even blacks who have studied science, technology, engineering and math had a hard time finding work, said John Schmitt.",
+    "Simplified": "technology is a hard time finding work, said john schmitt.",
+    "Insertion": -1
+  },
+  {
+    "ExampleId": 318134002514460,
+    "HITId": "366FYU4PTGOLTBYSVTX10PB06QUEKT",
+    "Complex": "In Minnesota, youth hockey has long had a reputation for competitiveness, but now, youth basketball might be catching up.",
+    "Simplified": "in minnesota, youth hockey has long had a reputation for years.",
+    "Insertion": 0
+  },
+  {
+    "ExampleId": 526370581479100,
+    "HITId": "366FYU4PTGOLTBYSVTX10PB06QUEKT",
+    "Complex": "The United States is about to spend billions of dollars to build a top-secret warplane.",
+    "Simplified": "the united states is about to spend billions of dollars for.",
+    "Insertion": -1
+  },
+  {
+    "ExampleId": 403734073151336,
+    "HITId": "366FYU4PTGOLTBYSVTX10PB06QUEKT",
+    "Complex": "When the kernel gets very hot-above 212 degrees Fahrenheit-the water inside turns to steam, which is a gas.",
+    "Simplified": "when the kernel gets very hot, the water inside turns to dry dry.",
+    "Insertion": 0
+  },
+  {
+    "ExampleId": 737070937824806,
+    "HITId": "366FYU4PTGOLTBYSVTX10PB06QUEKT",
+    "Complex": "The trade is dominated by the ethnic Sherpa people who populate the Himalayan highlands.",
+    "Simplified": "the trade is dominated by the himalayan highlands.",
+    "Insertion": 0
+  },
+  {
+    "ExampleId": 251731363213684,
+    "HITId": "366FYU4PTGOLTBYSVTX10PB06QUEKT",
+    "Complex": "She liked the old, comfortable book market of years past.",
+    "Simplified": "she liked the old, comfortable book sold years past.",
+    "Insertion": 0
+  },
+  {
+    "ExampleId": 821563606897589,
+    "HITId": "366FYU4PTGOLTBYSVTX10PB06QUEKT",
+    "Complex": "It's increasingly true across the country-we (whites) haven't been replacing ourselves, \" said Steve Murdock, a sociology professor at Rice University who has been arguing for decades that Texas and other states must do a better job of educating minorities, especially Hispanics, or employers will go overseas to find skilled workers.",
+    "Simplified": "steve murdock is a professor at rice university in washington who has been arguing for years.",
+    "Insertion": 0
+  },
+  {
+    "ExampleId": 785898505435855,
+    "HITId": "366FYU4PTGOLTBYSVTX10PB06QUEKT",
+    "Complex": "Employers are more likely to offer a job to a white person than a black person, Schmitt said.",
+    "Simplified": "employers are more likely to offer a job, schmitt said.",
+    "Insertion": 0
+  },
+  {
+    "ExampleId": 964481935210741,
+    "HITId": "366FYU4PTGOLTBYSVTX10PB06QUEKT",
+    "Complex": "But Defense Secretary Chuck Hagel said last month: \"I think the Long-Range Strike Bomber is absolutely essential to keep our deterrent edge.\"",
+    "Simplified": "but defense secretary chuck hagel said last month: our deterrent edge will be affected.",
+    "Insertion": 0
+  },
+  {
+    "ExampleId": 811942571136034,
+    "HITId": "366FYU4PTGOLTBYSVTX10PB06QUEKT",
+    "Complex": "Then he draws a connection between the '50s civil rights pioneer Rosa Parks and last year's protests in Ferguson, Missouri, over the police slaying of an unarmed African-American resident, Michael Brown:",
+    "Simplified": "then he draws a connection between two rights pioneer rosa parks",
+    "Insertion": 0
+  },
+  {
+    "ExampleId": 854344954852218,
+    "HITId": "366FYU4PTGOLTBYSVTX10PB06QUEKT",
+    "Complex": "Others agreed with the federal court's decision and started marrying same-sex couples in the morning.",
+    "Simplified": "others agreed with the federal court's decision in the morning.",
+    "Insertion": 0
+  },
+  {
+    "ExampleId": 633027722941982,
+    "HITId": "366FYU4PTGOLTBYSVTX10PB06QUEKT",
+    "Complex": "He started making kites that pictured workers instead of ancient mythic figures.",
+    "Simplified": "he started making kites that pictured workers instead of ancient.",
+    "Insertion": 0
+  },
+  {
+    "ExampleId": 663895340824211,
+    "HITId": "366FYU4PTGOLTBYSVTX10PB06QUEKT",
+    "Complex": "All of the people were sherpas, the term for the local men who are paid to help tourists climb the mountain.",
+    "Simplified": "sherpas is the term for the local men who climb the mountain.",
+    "Insertion": 0
+  },
+  {
+    "ExampleId": 338179808948986,
+    "HITId": "366FYU4PTGOLTBYSVTX10PB06QUEKT",
+    "Complex": "In 2013 alone, Chinese developers spent nearly $24 billion on theme park construction, according to a study by engineering firm AECOM.",
+    "Simplified": "in 2013 alone, chinese developers spent nearly $24 billion.",
+    "Insertion": 0
+  },
+  {
+    "ExampleId": 913434713777490,
+    "HITId": "366FYU4PTGOLTBYSVTX10PB06QUEKT",
+    "Complex": "The stirring \"Glory\" is the musical centerpiece of the 2014 Oscar-nominated movie \"Selma.\"",
+    "Simplified": "the stirring \"glory\" is an important part of the movie.",
+    "Insertion": 0
+  },
+  {
+    "ExampleId": 820908469413326,
+    "HITId": "366FYU4PTGOLTBYSVTX10PB06QUEKT",
+    "Complex": "Teri Albrecht, director of International Student and Scholar Services at the University of Texas at Austin, said the college application process can be especially stressful for immigrant students, because for many of them it is when they find out for the first time that they're unauthorized immigrants.",
+    "Simplified": "teri albrecht is director of international student and scholar services.",
+    "Insertion": 0
+  },
+  {
+    "ExampleId": 987362535349990,
+    "HITId": "366FYU4PTGOLTBYSVTX10PB06QUEKT",
+    "Complex": "Piechocki is responsible for integrating, testing and executing all of the engineering requirements for Ford's full-size SUVs, Ford Expedition and Lincoln Navigator.",
+    "Simplified": "piechocki is responsible for integrating, testing.",
+    "Insertion": 0
+  },
+  {
+    "ExampleId": 301247411173957,
+    "HITId": "366FYU4PTGOLTBYSVTX10PB06QUEKT",
+    "Complex": "However, other types of music-soul, R & amp; B and jazz-said that the good life could be experienced now.",
+    "Simplified": "other types of music-soul and r & amp.",
+    "Insertion": -1
+  },
+  {
+    "ExampleId": 781445942747092,
+    "HITId": "366FYU4PTGOLTBYSVTX10PB06QUEKT",
+    "Complex": "What schools are trying to do, he said, is open up religious education to students according to the wishes of the Turkish people.",
+    "Simplified": "he said students.",
+    "Insertion": -1
+  },
+  {
+    "ExampleId": 130917170683417,
+    "HITId": "366FYU4PTGOLTBYSVTX10PB06QUEKT",
+    "Complex": "Hauaino remembers his verdant, pre-volcano beach town on the east end of the Island of Hawaii as \" just one of the beautifulest places on the island.",
+    "Simplified": "hauaino remembers his verdant, pre-volcano beach town on hawaii.",
+    "Insertion": 0
+  },
+  {
+    "ExampleId": 873053248631875,
+    "HITId": "366FYU4PTGOLTBYSVTX10PB06QUEKT",
+    "Complex": "\"I think the Long-Range Strike Bomber is absolutely essential to keep our deterrent edge.\"",
+    "Simplified": "\" i think the long-range strike bomber is absolutely essential to keep our deterrent.",
+    "Insertion": 0
+  },
+  {
+    "ExampleId": 123174142917258,
+    "HITId": "366FYU4PTGOLTBYSVTX10PB06QUEKT",
+    "Complex": "Fugitive slave laws were in force in the North that put escaped slaves at risk in free states, where they could be captured and returned as property.",
+    "Simplified": "still, slave laws were in force in the north.",
+    "Insertion": 0
+  },
+  {
+    "ExampleId": 155089584287495,
+    "HITId": "366FYU4PTGOLTBYSVTX10PB06QUEKT",
+    "Complex": "They still were more inclined than the Scottish chimps to choose apples over other foods, according to the study.",
+    "Simplified": "they still were more inclined than the scottish chimps to use apples.",
+    "Insertion": 0
+  },
+  {
+    "ExampleId": 476491812408506,
+    "HITId": "366FYU4PTGOLTBYSVTX10PB06QUEKT",
+    "Complex": "Wal-Mart's involvement is important because it imports more fruits and vegetables from Mexico than any other U.S. company.",
+    "Simplified": "it's more fruits and vegetables from mexico than any other u.s. company.",
+    "Insertion": -1
+  },
+  {
+    "ExampleId": 949678979267712,
+    "HITId": "366FYU4PTGOLTBYSVTX10PB06QUEKT",
+    "Complex": "High-end expeditions now offer sushi, espresso, fully stocked bars and makeshift Internet cafes as far up as 21,000 feet-all requiring more equipment and sherpas.",
+    "Simplified": "espresso is fully stocked bars and internet cafes.",
+    "Insertion": -1
+  },
+  {
+    "ExampleId": 280108207427248,
+    "HITId": "366FYU4PTGOLTBYSVTX10PB06QUEKT",
+    "Complex": "Wal-Mart's involvement is important.",
+    "Simplified": "wal-mart's involvement is that important.",
+    "Insertion": 0
+  },
+  {
+    "ExampleId": 299437241537819,
+    "HITId": "366FYU4PTGOLTBYSVTX10PB06QUEKT",
+    "Complex": "At the southern end of the state, in coastal Fairhope, the Reverend Jerry Henry expressed disapproval and pondered what the changes might mean for the church.",
+    "Simplified": "jerry henry expressed disapproval and pondered what the changes did.",
+    "Insertion": 0
+  },
+  {
+    "ExampleId": 187256532845637,
+    "HITId": "366FYU4PTGOLTBYSVTX10PB06QUEKT",
+    "Complex": "By 1825, Riley had money problems.",
+    "Simplified": "by 1825, riley had money problems.",
+    "Insertion": 0
+  },
+  {
+    "ExampleId": 720344708912023,
+    "HITId": "366FYU4PTGOLTBYSVTX10PB06QUEKT",
+    "Complex": "In a nod to the often overlooked science behind races like Sunday's Daytona 500, NASCAR announced Friday a commitment to promote \"STEM\"-the buzzword for science, technology, engineering and math-inside classrooms and out.",
+    "Simplified": "nascar announced friday a commitment to promote \"stem\".",
+    "Insertion": 0
+  },
+  {
+    "ExampleId": 556856135315681,
+    "HITId": "366FYU4PTGOLTBYSVTX10PB06QUEKT",
+    "Complex": "Lancaster Mayor Parris said the bomber could create jobs throughout the area, including at restaurants, stores and manufacturing suppliers.",
+    "Simplified": "lancaster mayor parris said the bomber could create jobs in the area.",
+    "Insertion": 0
+  },
+  {
+    "ExampleId": 618473542986047,
+    "HITId": "366FYU4PTGOLTBYSVTX10PB06QUEKT",
+    "Complex": "Then he draws a connection between the '50s civil-rights pioneer Rosa Parks and last year's protests in Ferguson, Missouri, over the police slaying of an unarmed African-American resident, Michael Brown:",
+    "Simplified": "then he draws a connection between two parks and ferguson, missouri",
+    "Insertion": 2
+  },
+  {
+    "ExampleId": 33431066000482,
+    "HITId": "366FYU4PTGOLTBYSVTX10PB06QUEKT",
+    "Complex": "The scientific name for popcorn is Zea mays everta.",
+    "Simplified": "the scientific name for popcorn is zea mays-everta.",
+    "Insertion": 0
+  },
+  {
+    "ExampleId": 82031571416374,
+    "HITId": "366FYU4PTGOLTBYSVTX10PB06QUEKT",
+    "Complex": "He then typed out the answers using the six keys on a Braille notetaker.",
+    "Simplified": "he then typed out the answers using the six keys on notetaker.",
+    "Insertion": 0
+  },
+  {
+    "ExampleId": 28534468762884,
+    "HITId": "366FYU4PTGOLTBYSVTX10PB06QUEKT",
+    "Complex": "He watched the lava in 1991 as it devoured the house where he was born and raised and where his father still lived when the lava made its gradual way to the coast.",
+    "Simplified": "he was born and grew up where his father still lived.",
+    "Insertion": 0
+  },
+  {
+    "ExampleId": 524595695031691,
+    "HITId": "366FYU4PTGOLTBYSVTX10PB06QUEKT",
+    "Complex": "More than 300,000 students across the country signed up to participate.",
+    "Simplified": "more than 300,000 students across the country signed up to join.",
+    "Insertion": 0
+  },
+  {
+    "ExampleId": 352117736542104,
+    "HITId": "366FYU4PTGOLTBYSVTX10PB06QUEKT",
+    "Complex": "The champion of the final bee will represent the St. Louis area in the 2015 Scripps National Spelling Bee.",
+    "Simplified": "the champion of the final bee will represent the st. louis area.",
+    "Insertion": 0
+  },
+  {
+    "ExampleId": 976247234870167,
+    "HITId": "366FYU4PTGOLTBYSVTX10PB06QUEKT",
+    "Complex": "The profession is dominated by the ethnic Sherpa people who live in the Himalayan highlands, at the bottom of Mount Everest.",
+    "Simplified": "the himalayan highlands is at the bottom of mount everest.",
+    "Insertion": 0
+  },
+  {
+    "ExampleId": 355194243588173,
+    "HITId": "366FYU4PTGOLTBYSVTX10PB06QUEKT",
+    "Complex": "Media reports said at least 10 people were detained in five Turkish cities for organizing the boycott.",
+    "Simplified": "five turkish cities are held for organizing the boycott.",
+    "Insertion": 0
+  },
+  {
+    "ExampleId": 434292732462142,
+    "HITId": "366FYU4PTGOLTBYSVTX10PB06QUEKT",
+    "Complex": "Pops continued writing and singing about the movement until his last days, as his final recording attests.",
+    "Simplified": "pops continued writing and singing about the movement.",
+    "Insertion": 0
+  },
+  {
+    "ExampleId": 731796010482676,
+    "HITId": "366FYU4PTGOLTBYSVTX10PB06QUEKT",
+    "Complex": "Others agreed with the federal court's decision and started marrying same-sex couples in the morning.",
+    "Simplified": "others agreed with the federal court's decision in the morning.",
+    "Insertion": 0
+  },
+  {
+    "ExampleId": 387629306837397,
+    "HITId": "366FYU4PTGOLTBYSVTX10PB06QUEKT",
+    "Complex": "To teach the often overlooked science behind races like this past Sunday's Daytona 500, NASCAR announced that it will promote STEM inside classrooms and out.",
+    "Simplified": "nascar announced that it will promote stem inside.",
+    "Insertion": 0
+  },
+  {
+    "ExampleId": 406917395950101,
+    "HITId": "366FYU4PTGOLTBYSVTX10PB06QUEKT",
+    "Complex": "Even African-Americans who studied science, technology, engineering and math-winning fields in the job market-have had a hard time finding work, said John Schmitt.",
+    "Simplified": "african-americans who studied science, technology, and math said.",
+    "Insertion": -1
+  },
+  {
+    "ExampleId": 8238810463128,
+    "HITId": "366FYU4PTGOLTBYSVTX10PB06QUEKT",
+    "Complex": "\"I had been pushed around all my life and felt at this moment that I couldn't take it any more,\" she wrote.",
+    "Simplified": "i couldn't take it any more, she said.",
+    "Insertion": 0
+  },
+  {
+    "ExampleId": 304952166362966,
+    "HITId": "366FYU4PTGOLTBYSVTX10PB06QUEKT",
+    "Complex": "It took months for the wounds to heal.",
+    "Simplified": "it took months for the wounds to heal.",
+    "Insertion": 0
+  },
+  {
+    "ExampleId": 676946292125125,
+    "HITId": "366FYU4PTGOLTBYSVTX10PB06QUEKT",
+    "Complex": "Pedretti is convinced the painting is old and is quite likely from da Vinci's lifetime, but some details were painted later.",
+    "Simplified": "pedretti is convinced the painting is old and is likely from da.",
+    "Insertion": 0
+  },
+  {
+    "ExampleId": 983732575592208,
+    "HITId": "366FYU4PTGOLTBYSVTX10PB06QUEKT",
+    "Complex": "While it has cited student freedoms in allowing headscarves, it has at the same time banned tattoos, body piercing and dyed hair in schools.",
+    "Simplified": "the same time banned tattoos, body piercing and hair.",
+    "Insertion": -1
+  },
+  {
+    "ExampleId": 80783934062569,
+    "HITId": "366FYU4PTGOLTBYSVTX10PB06QUEKT",
+    "Complex": "The decision is in the hands of the Air Force, which says it needs a heavy-payload-carrying bomber that is so stealthy it can evade the most sophisticated enemy radar.",
+    "Simplified": "it needs a heavy-payload-carrying bomber that is so stealthy it can pull.",
+    "Insertion": -1
+  },
+  {
+    "ExampleId": 101595026273705,
+    "HITId": "366FYU4PTGOLTBYSVTX10PB06QUEKT",
+    "Complex": "He said the school eventually offered his daughter an elective astronomy class after he spoke to the media about her case.",
+    "Simplified": "he said the school eventually offered his daughter a astronomy class.",
+    "Insertion": 0
+  },
+  {
+    "ExampleId": 112996388668842,
+    "HITId": "366FYU4PTGOLTBYSVTX10PB06QUEKT",
+    "Complex": "The International Seabed Authority is in charge of mining.",
+    "Simplified": "the international seabed authority is in charge of mining.",
+    "Insertion": 0
+  },
+  {
+    "ExampleId": 240212197687274,
+    "HITId": "366FYU4PTGOLTBYSVTX10PB06QUEKT",
+    "Complex": "\"We have direct orders from the state Supreme Court here in Alabama, and I'm going to adhere to it.\"",
+    "Simplified": "the state supreme court is a republican from washington in alabama.",
+    "Insertion": -1
+  },
+  {
+    "ExampleId": 513794005849224,
+    "HITId": "366FYU4PTGOLTBYSVTX10PB06QUEKT",
+    "Complex": "By 2013, it became clear that the grunts the Dutch chimps made for apples had come down in pitch.",
+    "Simplified": "by 2013, the grunts made for apples had come down.",
+    "Insertion": 0
+  },
+  {
+    "ExampleId": 839392213807075,
+    "HITId": "366FYU4PTGOLTBYSVTX10PB06QUEKT",
+    "Complex": "Other judges agreed with the federal court's decision and started marrying same-sex couples in the morning.",
+    "Simplified": "other judges agreed with the federal court's decision in the morning.",
+    "Insertion": 0
+  },
+  {
+    "ExampleId": 69536127494758,
+    "HITId": "366FYU4PTGOLTBYSVTX10PB06QUEKT",
+    "Complex": "He likes the late Iraqi author Ali Wardi and American writer Dan Brown - he has read every book Brown has written except for one.",
+    "Simplified": "he likes the late iraqi author ali wardi and american writer dan brown.",
+    "Insertion": 0
+  },
+  {
+    "ExampleId": 238374615712467,
+    "HITId": "366FYU4PTGOLTBYSVTX10PB06QUEKT",
+    "Complex": "All 16 who died were sherpas, the catch-all term for local mountain guides, porters and camp staff, a trade dominated by the ethnic Sherpa people who populate the Himalayan highlands.",
+    "Simplified": "the himalayan highlands is an international meeting.",
+    "Insertion": 2
+  },
+  {
+    "ExampleId": 476907725024509,
+    "HITId": "366FYU4PTGOLTBYSVTX10PB06QUEKT",
+    "Complex": "President Erdogan is strongly backing a proposal to add required Ottoman language classes at high schools, but the proposal was later limited to religious schools only.",
+    "Simplified": "president erdogan is strongly backing a proposal to add language classes.",
+    "Insertion": 0
+  },
+  {
+    "ExampleId": 712937944961819,
+    "HITId": "366FYU4PTGOLTBYSVTX10PB06QUEKT",
+    "Complex": "Last year, Ramirez earned a college degree.",
+    "Simplified": "last year, he earned a college degree.",
+    "Insertion": 0
+  },
+  {
+    "ExampleId": 158056965014280,
+    "HITId": "366FYU4PTGOLTBYSVTX10PB06QUEKT",
+    "Complex": "But when he later tried to buy his freedom, he discovered that his owner had no plans to free him.",
+    "Simplified": "but when he later tried to buy his freedom.",
+    "Insertion": -1
+  },
+  {
+    "ExampleId": 547119214698208,
+    "HITId": "366FYU4PTGOLTBYSVTX10PB06QUEKT",
+    "Complex": "To teach the often overlooked science behind races like this past Sunday's Daytona 500, NASCAR announced that it will promote STEM inside classrooms and out.",
+    "Simplified": "nascar announced that it will promote stem inside.",
+    "Insertion": 0
+  },
+  {
+    "ExampleId": 431546908937495,
+    "HITId": "366FYU4PTGOLTBYSVTX10PB06QUEKT",
+    "Complex": "However, in Texas and 24 other states, whites are at least twice as likely as Hispanics to have college degrees.",
+    "Simplified": "other states like these have studied college degrees.",
+    "Insertion": -1
+  },
+  {
+    "ExampleId": 588542287284000,
+    "HITId": "366FYU4PTGOLTBYSVTX10PB06QUEKT",
+    "Complex": "Women want better storage, nicer interior lighting and materials, and cars designed for their smaller body size, she said.",
+    "Simplified": "women want better storage, nicer interior lighting and materials.",
+    "Insertion": 0
+  },
+  {
+    "ExampleId": 295234053888281,
+    "HITId": "366FYU4PTGOLTBYSVTX10PB06QUEKT",
+    "Complex": "They sounded more like the Scottish chimps.",
+    "Simplified": "they sounded more like the scottish chimps.",
+    "Insertion": 0
+  },
+  {
+    "ExampleId": 400574296203822,
+    "HITId": "366FYU4PTGOLTBYSVTX10PB06QUEKT",
+    "Complex": "Archaeologists digging at the site found items from the 19th century, including a flatiron and milk bottle.",
+    "Simplified": "a flatiron and milk bottle are known as.",
+    "Insertion": -1
+  },
+  {
+    "ExampleId": 761938078574164,
+    "HITId": "366FYU4PTGOLTBYSVTX10PB06QUEKT",
+    "Complex": "They also want cars designed for their smaller body size, Schaffels said.",
+    "Simplified": "they want cars designed for their smaller body, too.",
+    "Insertion": 0
+  },
+  {
+    "ExampleId": 777962148557396,
+    "HITId": "366FYU4PTGOLTBYSVTX10PB06QUEKT",
+    "Complex": "Though Breyfogle was reluctant, he signed up his son, Easton, to play on Edina's team.",
+    "Simplified": "breyfogle was going back up his son, easton.",
+    "Insertion": -1
+  },
+  {
+    "ExampleId": 90051256021227,
+    "HITId": "366FYU4PTGOLTBYSVTX10PB06QUEKT",
+    "Complex": "They are having a harder time than whites finding a job, are more likely to be in a job that does not require their college degree and are being paid less than white workers with the same experience.",
+    "Simplified": "less than white workers are able.",
+    "Insertion": -1
+  },
+  {
+    "ExampleId": 255629018749418,
+    "HITId": "366FYU4PTGOLTBYSVTX10PB06QUEKT",
+    "Complex": "The researchers recorded each group's food grunts for three years.",
+    "Simplified": "the researchers recorded each group's food grunts.",
+    "Insertion": 0
+  },
+  {
+    "ExampleId": 421783635800191,
+    "HITId": "366FYU4PTGOLTBYSVTX10PB06QUEKT",
+    "Complex": "The day was more about being aware of other people's feelings, and encouraging students to reach out and start a conversation with someone they normally don't talk to, said Reece Black.",
+    "Simplified": "the day was more about being aware of other people's feelings.",
+    "Insertion": 0
+  },
+  {
+    "ExampleId": 954946462913084,
+    "HITId": "366FYU4PTGOLTBYSVTX10PB06QUEKT",
+    "Complex": "In fact, he said, he is rarely called back for an interview.",
+    "Simplified": "in fact, he said, he is not back.",
+    "Insertion": 0
+  },
+  {
+    "ExampleId": 360775911832029,
+    "HITId": "366FYU4PTGOLTBYSVTX10PB06QUEKT",
+    "Complex": "Weariness tears up their voices, but they're still on the freedom highway.",
+    "Simplified": "weariness tears up their voices, but they're still on the street.",
+    "Insertion": 0
+  },
+  {
+    "ExampleId": 843529035735530,
+    "HITId": "366FYU4PTGOLTBYSVTX10PB06QUEKT",
+    "Complex": "They are having a harder time than whites finding a job, are more likely to be in a job that does not require a college degree and are being paid less than white workers with the same experience.",
+    "Simplified": "less than white workers are able.",
+    "Insertion": -1
+  },
+  {
+    "ExampleId": 433820943834261,
+    "HITId": "366FYU4PTGOLTBYSVTX10PB06QUEKT",
+    "Complex": "Florida specializes in \"green skins\" that are larger and have a lighter flavor than the \"hass\" variety, which is grown in California and Colombia and dominates the U.S. market.",
+    "Simplified": "florida specializes in \"green skins\".",
+    "Insertion": 0
+  },
+  {
+    "ExampleId": 993283741959384,
+    "HITId": "366FYU4PTGOLTBYSVTX10PB06QUEKT",
+    "Complex": "Richie will now move on to a bigger contest.",
+    "Simplified": "richie will now move on to a bigger contest.",
+    "Insertion": 0
+  },
+  {
+    "ExampleId": 51062221286723,
+    "HITId": "366FYU4PTGOLTBYSVTX10PB06QUEKT",
+    "Complex": "They will turn it into a visitors center and museum.",
+    "Simplified": "they will turn it into a visitors center and museum.",
+    "Insertion": 0
+  },
+  {
+    "ExampleId": 182567639987978,
+    "HITId": "366FYU4PTGOLTBYSVTX10PB06QUEKT",
+    "Complex": "He watched it in 1991 as it slowly devoured the house where he was born and raised.",
+    "Simplified": "he watched it in 1991 when the house was born.",
+    "Insertion": -1
+  },
+  {
+    "ExampleId": 906937402787634,
+    "HITId": "366FYU4PTGOLTBYSVTX10PB06QUEKT",
+    "Complex": "That has set off a bidding war for the painting, said Vezzosi, the director of a museum dedicated to Leonardo da Vinci in his hometown of Vinci in Italy.",
+    "Simplified": "she has set off a bidding war for the painting.",
+    "Insertion": 0
+  }
+]

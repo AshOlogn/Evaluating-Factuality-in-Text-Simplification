@@ -1,0 +1,835 @@
+[
+  {
+    "ExampleId": 646723195548683,
+    "HITId": "34D9ZRXCYRTGRHUOKX4HVSCJ2OKASO",
+    "Complex": "brunstad has several fast food restaurants, a cafeteria-style restaurant, coffee bar, and its own grocery store.",
+    "Simplified": "brunstad has several fast food restaurants, a cafe, coffee bar, and its own grocery store.",
+    "Substitution": 1
+  },
+  {
+    "ExampleId": 672026782914831,
+    "HITId": "34D9ZRXCYRTGRHUOKX4HVSCJ2OKASO",
+    "Complex": "prior to the arrival of the storm, the national park service closed visitor centers and campgrounds along the outer banks.",
+    "Simplified": "before the storm arrived, the national park service closed visitor centers and campgrounds along the outer banks.",
+    "Substitution": 1
+  },
+  {
+    "ExampleId": 135085809799385,
+    "HITId": "34D9ZRXCYRTGRHUOKX4HVSCJ2OKASO",
+    "Complex": "working group i: assesses scientific aspects of the climate system and climate change.",
+    "Simplified": "working group i: assesses scientific aspects of the climate system and climate change.",
+    "Substitution": 0
+  },
+  {
+    "ExampleId": 328749622182606,
+    "HITId": "34D9ZRXCYRTGRHUOKX4HVSCJ2OKASO",
+    "Complex": "ohio state's library system encompasses twenty-one libraries located on its columbus campus.",
+    "Simplified": "ohio state's library system covers twenty-one libraries on its columbus campus.",
+    "Substitution": 0
+  },
+  {
+    "ExampleId": 766375652110297,
+    "HITId": "34D9ZRXCYRTGRHUOKX4HVSCJ2OKASO",
+    "Complex": "their participation is limited until they reach legal adulthood.",
+    "Simplified": "their participation is limited until they reach legal adulthood.",
+    "Substitution": 0
+  },
+  {
+    "ExampleId": 827935176416527,
+    "HITId": "34D9ZRXCYRTGRHUOKX4HVSCJ2OKASO",
+    "Complex": "it is also a starting point for people wanting to explore cooktown, cape york peninsula, and the atherton tableland.",
+    "Simplified": "it is also a starting point for people wanting to explore cooktown, cape york peninsula, and the atherton tableland.",
+    "Substitution": 0
+  },
+  {
+    "ExampleId": 596105066156291,
+    "HITId": "34D9ZRXCYRTGRHUOKX4HVSCJ2OKASO",
+    "Complex": "he left a detachment of 11,000 troops to garrison the newly conquered region.",
+    "Simplified": "he left a group of 11,000 troops to defend the newly conquered region.",
+    "Substitution": 1
+  },
+  {
+    "ExampleId": 999657477441094,
+    "HITId": "34D9ZRXCYRTGRHUOKX4HVSCJ2OKASO",
+    "Complex": "this leads to consumer confusion when 220 (1,048,576) bytes is referenced as 1 mb (megabyte) instead of 1 mib.",
+    "Simplified": "this leads to consumer confusion when 220 (1,048, 576) bytes is referenced as 1 mb (megabyte) instead of 1 mib.",
+    "Substitution": 0
+  },
+  {
+    "ExampleId": 266648903293579,
+    "HITId": "34D9ZRXCYRTGRHUOKX4HVSCJ2OKASO",
+    "Complex": "she remained in the united states until 1927 when she and her husband returned to france.",
+    "Simplified": "she stayed in the united states until 1927 when she returned to france.",
+    "Substitution": 0
+  },
+  {
+    "ExampleId": 554011379513668,
+    "HITId": "34D9ZRXCYRTGRHUOKX4HVSCJ2OKASO",
+    "Complex": "the equilibrium price for a certain type of labor is the wage.",
+    "Simplified": "the price of a certain type of labor is the wage.",
+    "Substitution": 0
+  },
+  {
+    "ExampleId": 378684065228218,
+    "HITId": "34D9ZRXCYRTGRHUOKX4HVSCJ2OKASO",
+    "Complex": "in the years before his final release in 1474, when he began preparations for the reconquest of wallachia, vlad resided with his new wife in a house in the hungarian capital.",
+    "Simplified": "in 1474, he began plans for the reconquest of wallachia. he lived in a house in the hungarian capital, kreuzlingen.",
+    "Substitution": 0
+  },
+  {
+    "ExampleId": 498879297129787,
+    "HITId": "34D9ZRXCYRTGRHUOKX4HVSCJ2OKASO",
+    "Complex": "after graduation he returned to yerevan to teach at the local conservatory and later he was appointed artistic director of the armenian philarmonic orchestra.",
+    "Simplified": "he graduated from yerevan to teach at the local conservatory. later he became artistic director of the armenian philarmonic orchestra.",
+    "Substitution": 0
+  },
+  {
+    "ExampleId": 546694604124378,
+    "HITId": "34D9ZRXCYRTGRHUOKX4HVSCJ2OKASO",
+    "Complex": "it was the first asteroid to be discovered by a spacecraft.",
+    "Simplified": "it was the first asteroid to be found by a spacecraft.",
+    "Substitution": 0
+  },
+  {
+    "ExampleId": 633857619690909,
+    "HITId": "34D9ZRXCYRTGRHUOKX4HVSCJ2OKASO",
+    "Complex": "he advocates applying a user-centered design process in product development cycles and also works towards popularizing interaction design as a mainstream discipline.",
+    "Simplified": "he works with a user-centered design process in product development cycles. he also works towards popularize interaction as a mainstream discipline.",
+    "Substitution": 1
+  },
+  {
+    "ExampleId": 230100086606436,
+    "HITId": "34D9ZRXCYRTGRHUOKX4HVSCJ2OKASO",
+    "Complex": "furthermore, spectroscopic studies have shown evidence of hydrated minerals and silicates, which indicate rather a stony surface composition.",
+    "Simplified": "also, spectroscopic studies have shown evidence of hydrated minerals and silicates, which show a stony surface composition.",
+    "Substitution": 1
+  },
+  {
+    "ExampleId": 398096768664022,
+    "HITId": "34D9ZRXCYRTGRHUOKX4HVSCJ2OKASO",
+    "Complex": "this quantitative measure indicates how much of a particular drug or other substance (inhibitor) is needed to inhibit a given biological process (or component of a process, i.e. an enzyme, cell, cell receptor or microorganism) by half.",
+    "Simplified": "this quantitative measure shows how much of a particular drug or other substance (inhibitor) is needed to inhibit a given biological process by half or cell receptors by half.",
+    "Substitution": 0
+  },
+  {
+    "ExampleId": 451913114950106,
+    "HITId": "34D9ZRXCYRTGRHUOKX4HVSCJ2OKASO",
+    "Complex": "val venis defeated rikishi in a steel cage match to retain the wwf intercontinental championship (14:10) venis pinned rikishi after tazz hit rikishi with a tv camera.",
+    "Simplified": "he beat rikishi in a steel cage match to retain the intercontinental championship. he beat rikishi with a tv camera.",
+    "Substitution": 0
+  },
+  {
+    "ExampleId": 583937985562072,
+    "HITId": "34D9ZRXCYRTGRHUOKX4HVSCJ2OKASO",
+    "Complex": "the capital of the state is aracaju (pop.",
+    "Simplified": "the capital city of the state is aracaju.",
+    "Substitution": 0
+  },
+  {
+    "ExampleId": 156896740710514,
+    "HITId": "34D9ZRXCYRTGRHUOKX4HVSCJ2OKASO",
+    "Complex": "they are castrated so that the animal may be more docile or may put on weight more quickly.",
+    "Simplified": "they are castrated so that the animal may be more docile or put on weight more quickly.",
+    "Substitution": 0
+  },
+  {
+    "ExampleId": 934961541506997,
+    "HITId": "34D9ZRXCYRTGRHUOKX4HVSCJ2OKASO",
+    "Complex": "fives is a british sport believed to derive from the same origins as many racquet sports.",
+    "Simplified": "fives is a british sport believed to be derived from racquet sports.",
+    "Substitution": 0
+  },
+  {
+    "ExampleId": 137051658345256,
+    "HITId": "34D9ZRXCYRTGRHUOKX4HVSCJ2OKASO",
+    "Complex": "he excuses himself because he has to leave for rehearsal, and he and dr. sch\u00f6n leave.",
+    "Simplified": "he has to leave for rehearsal and he and dr. scho n leave.",
+    "Substitution": 0
+  },
+  {
+    "ExampleId": 398219335131762,
+    "HITId": "34D9ZRXCYRTGRHUOKX4HVSCJ2OKASO",
+    "Complex": "gable also earned an academy award nomination when he portrayed fletcher christian in 1935's mutiny on the bounty.",
+    "Simplified": "gable also earned an academy award nomination for his role as fletcher christian in the 1935 movie \"mutiny on the bounty\".",
+    "Substitution": 0
+  },
+  {
+    "ExampleId": 694482172930146,
+    "HITId": "34D9ZRXCYRTGRHUOKX4HVSCJ2OKASO",
+    "Complex": "the lawyer, brandon (waise lee), became his idol, and mk sun grew up to be a lawyer.",
+    "Simplified": "he became his idol in 1989. he grew up to be a lawyer and became a lawyer.",
+    "Substitution": -1
+  },
+  {
+    "ExampleId": 518649186324124,
+    "HITId": "34D9ZRXCYRTGRHUOKX4HVSCJ2OKASO",
+    "Complex": "salem is a city in essex county, massachusetts, united states.",
+    "Simplified": "salem is a city in essex county, massachusetts, united states.",
+    "Substitution": 0
+  },
+  {
+    "ExampleId": 912449991988960,
+    "HITId": "34D9ZRXCYRTGRHUOKX4HVSCJ2OKASO",
+    "Complex": "it has a capacity of 98,772, making it the largest stadium in europe, and the eleventh largest in the world.",
+    "Simplified": "it can hold 98,000 people. it is the largest stadium in europe.",
+    "Substitution": 1
+  },
+  {
+    "ExampleId": 393246410870692,
+    "HITId": "34D9ZRXCYRTGRHUOKX4HVSCJ2OKASO",
+    "Complex": "for example, king bhumibol was born on monday, so on his birthday throughout thailand will be decorated with yellow color.",
+    "Simplified": "for example, bhumibol was born on monday to the 14th of may. his birthday is decorated with yellow color.",
+    "Substitution": 0
+  },
+  {
+    "ExampleId": 687618662544856,
+    "HITId": "34D9ZRXCYRTGRHUOKX4HVSCJ2OKASO",
+    "Complex": "in april 1862, ben was arrested on the orders of police inspector sir frederick pottinger for participating in an armed robbery whilst in the company of frank gardiner.",
+    "Simplified": "in april 1862, he was arrested on police inspector frederick pottinger. he was involved in an armed robbery while he was in charge of a company.",
+    "Substitution": 0
+  },
+  {
+    "ExampleId": 528135466017623,
+    "HITId": "34D9ZRXCYRTGRHUOKX4HVSCJ2OKASO",
+    "Complex": "the wounds inflicted by a club are generally known as bludgeoning or blunt-force trauma injuries.",
+    "Simplified": "the wounds caused by a club are known as bludgeoning or blunt-force trauma.",
+    "Substitution": 0
+  },
+  {
+    "ExampleId": 707595692461550,
+    "HITId": "34D9ZRXCYRTGRHUOKX4HVSCJ2OKASO",
+    "Complex": "on 16 june 2009, the official release date of the resistance was announced on the band's website.",
+    "Simplified": "on 16 june 2009, the band's official release date was announced on the band's website.",
+    "Substitution": 0
+  },
+  {
+    "ExampleId": 586036211706460,
+    "HITId": "34D9ZRXCYRTGRHUOKX4HVSCJ2OKASO",
+    "Complex": "it is described as pointed in the face and about the size of a rabbit.",
+    "Simplified": "it is described as pointed in the face and about the size of a rabbit.",
+    "Substitution": 0
+  },
+  {
+    "ExampleId": 784361117967586,
+    "HITId": "34D9ZRXCYRTGRHUOKX4HVSCJ2OKASO",
+    "Complex": "the conference papers were published the next year in a bookmicroeconomic foundations of employment and inflation theory by phelps et al.",
+    "Simplified": "the next year, the papers were published in a book about employment and inflation theory by phelps et al.",
+    "Substitution": 0
+  },
+  {
+    "ExampleId": 746118332888694,
+    "HITId": "34D9ZRXCYRTGRHUOKX4HVSCJ2OKASO",
+    "Complex": "weelkes was later to find himself in trouble with the chichester cathedral authorities for his heavy drinking and immoderate behaviour.",
+    "Simplified": "weelkes was later to find himself in trouble with the chichester cathedral authorities for his heavy drinking and immoderate behaviour.",
+    "Substitution": 0
+  },
+  {
+    "ExampleId": 310361987916264,
+    "HITId": "34D9ZRXCYRTGRHUOKX4HVSCJ2OKASO",
+    "Complex": "meteora earned the band multiple awards and honors.",
+    "Simplified": "meteora won the band multiple awards and honors.",
+    "Substitution": 1
+  },
+  {
+    "ExampleId": 403524838744195,
+    "HITId": "34D9ZRXCYRTGRHUOKX4HVSCJ2OKASO",
+    "Complex": "there are statues of sir alf ramsey and sir bobby robson, both former ipswich town and england managers, outside the ground.",
+    "Simplified": "there are statues of sir alf ramsey and sir bobby robson. both are former ipswich town and england managers.",
+    "Substitution": 0
+  },
+  {
+    "ExampleId": 608570881308693,
+    "HITId": "34D9ZRXCYRTGRHUOKX4HVSCJ2OKASO",
+    "Complex": "in 1438 trevi passed under the temporal rule of the church as part of the legation of perugia, and thenceforth its history merges first with that of the states of the church, then (1860) with the united kingdom of italy.",
+    "Simplified": "in 1438 trevi then joined the states of the church, then (1860) with the united kingdom of italy.",
+    "Substitution": 0
+  },
+  {
+    "ExampleId": 794524784745450,
+    "HITId": "34D9ZRXCYRTGRHUOKX4HVSCJ2OKASO",
+    "Complex": "cogeneration (also combined heat and power, chp) is the use of a heat engine or a power station to simultaneously generate both electricity and useful heat.",
+    "Simplified": "cogeneration (also combined heat and power, chp) is the use of a heat engine to generate electricity and useful heat.",
+    "Substitution": 0
+  },
+  {
+    "ExampleId": 263480525600177,
+    "HITId": "34D9ZRXCYRTGRHUOKX4HVSCJ2OKASO",
+    "Complex": "some articles are quite lengthy and rich in content while others are shorter (possibly stubs) and of lesser quality.",
+    "Simplified": "some articles are quite long and rich in content. others are shorter, possibly stubs and of lesser quality.",
+    "Substitution": 0
+  },
+  {
+    "ExampleId": 684075353849391,
+    "HITId": "34D9ZRXCYRTGRHUOKX4HVSCJ2OKASO",
+    "Complex": "dry air wrapping around the southern periphery of the cyclone eroded most of the deep convection by early on september 12.",
+    "Simplified": "the cyclone was very dry air. it was damaged by early on september 12.",
+    "Substitution": 2
+  },
+  {
+    "ExampleId": 801680644311277,
+    "HITId": "34D9ZRXCYRTGRHUOKX4HVSCJ2OKASO",
+    "Complex": "monteux is a commune of the vaucluse d\u00e9partement in southern france, in the area provence-alpes-c\u00f4te d ' azur.",
+    "Simplified": "it is in the region provence-alpes-co te d ' azur in the vaucluse department in the south of france.",
+    "Substitution": 0
+  },
+  {
+    "ExampleId": 240869691621618,
+    "HITId": "34D9ZRXCYRTGRHUOKX4HVSCJ2OKASO",
+    "Complex": "santa maria maggiore (st. mary the greater), the earliest extant church in assisi.",
+    "Simplified": "santa maria maggiore (st. mary the greater) is the oldest church in assisi.",
+    "Substitution": 1
+  },
+  {
+    "ExampleId": 893839122065821,
+    "HITId": "34D9ZRXCYRTGRHUOKX4HVSCJ2OKASO",
+    "Complex": "representatives of the professional hockey writers' association vote for the all-star team at the end of the regular season.",
+    "Simplified": "the members of the professional hockey writers association vote for the all-star team at the end of the regular season.",
+    "Substitution": 1
+  },
+  {
+    "ExampleId": 163018167415650,
+    "HITId": "34D9ZRXCYRTGRHUOKX4HVSCJ2OKASO",
+    "Complex": "lo\u00e8che harbours the installations of onyx, the swiss interception system for electronic intelligence gathering.",
+    "Simplified": "loeche harbours the installations of onyx, the swiss interception system for electronic intelligence gathering.",
+    "Substitution": 0
+  },
+  {
+    "ExampleId": 181808055379306,
+    "HITId": "34D9ZRXCYRTGRHUOKX4HVSCJ2OKASO",
+    "Complex": "from 1900 to 1920 many new facilities were constructed on campus, including facilities for the dental and pharmacy programs, a chemistry building, a building for the natural sciences, hill auditorium, large hospital and library complexes, and two residence halls.",
+    "Simplified": "from 1900 to 1920, many new facilities were built on campus. these include the dental and pharmacy programs, a chemistry building, a building for the natural sciences, hill auditorium and library complexes.",
+    "Substitution": 0
+  },
+  {
+    "ExampleId": 139893850319630,
+    "HITId": "34D9ZRXCYRTGRHUOKX4HVSCJ2OKASO",
+    "Complex": "the latter provided audiences with the sort of information later provided by intertitles, and can help historians imagine what the film may have been like.",
+    "Simplified": "the latter provided audiences with the sort of information later provided by intertitles, and could help historians imagine what the film may have been like.",
+    "Substitution": 0
+  },
+  {
+    "ExampleId": 479426921311754,
+    "HITId": "34D9ZRXCYRTGRHUOKX4HVSCJ2OKASO",
+    "Complex": "the term \"protein\" itself was coined by berzelius, after mulder observed that all proteins seemed to have the same empirical formula and might be composed of a single type of (very large) molecule.",
+    "Simplified": "the term \"protein\" was coined by berzelius in 1950. he saw that all proteins seemed to have the same formula and be composed of a single type of molecule.",
+    "Substitution": 0
+  },
+  {
+    "ExampleId": 593304100859532,
+    "HITId": "34D9ZRXCYRTGRHUOKX4HVSCJ2OKASO",
+    "Complex": "a fee is the price one pays as remuneration for services, especially the honorarium paid to a doctor, lawyer, consultant, or other member of a learned profession.",
+    "Simplified": "a fee is the price one pays for services to a doctor or a lawyer. it is usually paid to a doctor or other member of a learned profession.",
+    "Substitution": 0
+  },
+  {
+    "ExampleId": 961403383395762,
+    "HITId": "34D9ZRXCYRTGRHUOKX4HVSCJ2OKASO",
+    "Complex": "summerslam (2009) is an upcoming professional wrestling pay-per-view event produced by world wrestling entertainment (wwe), which will take place on august 23, 2009 at staples center in los angeles, california.",
+    "Simplified": "summerslam (2009) is an upcoming professional wrestling pay-per-view show made by world wrestling entertainment (wwe). it will take place on august 23,2009 at the staples center in los angeles, california.",
+    "Substitution": 1
+  },
+  {
+    "ExampleId": 902376405744750,
+    "HITId": "34D9ZRXCYRTGRHUOKX4HVSCJ2OKASO",
+    "Complex": "a historian has stated that \"it was quinine's efficacy that gave colonists fresh opportunities to swarm into the gold coast, nigeria and other parts of west africa\".",
+    "Simplified": "a historian, quinine's work that gave colonists fresh opportunities to swarm into the gold coast, nigeria and other parts of west africa.",
+    "Substitution": 0
+  },
+  {
+    "ExampleId": 954258315663762,
+    "HITId": "34D9ZRXCYRTGRHUOKX4HVSCJ2OKASO",
+    "Complex": "its episodes were broadcast on the abc network from its debut on september 21, 1993 to march 1, 2005.",
+    "Simplified": "it was broadcast on the abc network from september 21,1993 to march 1,2005.",
+    "Substitution": 0
+  },
+  {
+    "ExampleId": 817537048791768,
+    "HITId": "34D9ZRXCYRTGRHUOKX4HVSCJ2OKASO",
+    "Complex": "thereafter the county's administration was conducted at duns or lauder until greenlaw became the county town in 1596.",
+    "Simplified": "thereafter the county's administration was conducted at duns or lauder until greenlaw became the county town in 1596.",
+    "Substitution": 0
+  },
+  {
+    "ExampleId": 859379895080778,
+    "HITId": "34D9ZRXCYRTGRHUOKX4HVSCJ2OKASO",
+    "Complex": "anyone may register a pedigree with the college, where they are carefully internally audited and require official proofs before being altered.",
+    "Simplified": "anyone may register a pedigree from the college. they are carefully audited and require official proofs before being altered.",
+    "Substitution": 0
+  },
+  {
+    "ExampleId": 499971047584045,
+    "HITId": "34D9ZRXCYRTGRHUOKX4HVSCJ2OKASO",
+    "Complex": "she performed for president reagan in 1988's great performances at the white house series, which aired on the public broadcasting service.",
+    "Simplified": "she performed for president reagan's great performances at the white house show. it ran on pbs in 1985.",
+    "Substitution": 1
+  },
+  {
+    "ExampleId": 643622319343417,
+    "HITId": "34D9ZRXCYRTGRHUOKX4HVSCJ2OKASO",
+    "Complex": "on june 24 1979 (the 750th anniversary of the village), glinde received its town charter.",
+    "Simplified": "on june 24 1979, glinde received its town charter from the 750th anniversary of the village.",
+    "Substitution": 0
+  },
+  {
+    "ExampleId": 406874716974804,
+    "HITId": "34D9ZRXCYRTGRHUOKX4HVSCJ2OKASO",
+    "Complex": "a mutant is a type of fictional character that appears in comic books published by marvel comics.",
+    "Simplified": "a mutant is a type of fictional character from marvel comics.",
+    "Substitution": 0
+  },
+  {
+    "ExampleId": 585861603136093,
+    "HITId": "34D9ZRXCYRTGRHUOKX4HVSCJ2OKASO",
+    "Complex": "orton and his wife welcomed alanna marie orton on july 12, 2008.",
+    "Simplified": "orton and his wife welcomed alanna marie orton on july 12,2008.",
+    "Substitution": 0
+  },
+  {
+    "ExampleId": 336418750271131,
+    "HITId": "34D9ZRXCYRTGRHUOKX4HVSCJ2OKASO",
+    "Complex": "the term dorsal refers to anatomical structures that are either situated toward or grow off that side of an animal.",
+    "Simplified": "the term dorsal refers to anatomical structures that are either found toward or grow off that side of an animal.",
+    "Substitution": 1
+  },
+  {
+    "ExampleId": 686951976751756,
+    "HITId": "34D9ZRXCYRTGRHUOKX4HVSCJ2OKASO",
+    "Complex": "for rowling, this scene is important because it shows harry's bravery, and by retrieving cedric's corpse, he demonstrates selflessness and compassion.",
+    "Simplified": "for rowling, this scene shows harry's bravery. cedric shows selflessness and compassion in the scene.",
+    "Substitution": 0
+  },
+  {
+    "ExampleId": 291997531928186,
+    "HITId": "34D9ZRXCYRTGRHUOKX4HVSCJ2OKASO",
+    "Complex": "the four canonical texts are the gospel of matthew, gospel of mark, gospel of luke and gospel of john, probably written between ad 65 and 100 (see also the gospel according to the hebrews).",
+    "Simplified": "the four canonical texts are the gospel of matthew, gospel of luke and gospel of john. they are probably written between ad 65 and 100 ad.",
+    "Substitution": 0
+  },
+  {
+    "ExampleId": 443153627987586,
+    "HITId": "34D9ZRXCYRTGRHUOKX4HVSCJ2OKASO",
+    "Complex": "the string can vibrate in different modes just as a guitar string can produce different notes, and every mode appears as a different particle: electron, photon, gluon, etc.",
+    "Simplified": "the string can vibrate in different ways just as a guitar can produce different notes. every mode it appears as a particle, gluon, etc.",
+    "Substitution": 0
+  },
+  {
+    "ExampleId": 908258485267691,
+    "HITId": "34D9ZRXCYRTGRHUOKX4HVSCJ2OKASO",
+    "Complex": "hinterrhein is an administrative district in the canton of graub\u00fcnden, switzerland.",
+    "Simplified": "hinterrhein is a district of the canton of graubu nden, switzerland.",
+    "Substitution": 0
+  },
+  {
+    "ExampleId": 341527942003497,
+    "HITId": "34D9ZRXCYRTGRHUOKX4HVSCJ2OKASO",
+    "Complex": "fearing that drek will destroy the galaxy, clank asks ratchet to help him find the famous superhero captain qwark, in an effort to stop drek.",
+    "Simplified": "fearing that drek will destroy the galaxy. ratchet does not find the famous superhero qwark.",
+    "Substitution": 0
+  },
+  {
+    "ExampleId": 396277705282666,
+    "HITId": "34D9ZRXCYRTGRHUOKX4HVSCJ2OKASO",
+    "Complex": "he toured with the ipo in the spring of 1990 for their first-ever performance in the soviet union, with concerts in moscow and leningrad, and toured with the ipo again in 1994, performing in china and india.",
+    "Simplified": "he toured with the ipo in the spring of 1990 for their first performance in moscow and leningrad.",
+    "Substitution": 0
+  },
+  {
+    "ExampleId": 849280539870626,
+    "HITId": "34D9ZRXCYRTGRHUOKX4HVSCJ2OKASO",
+    "Complex": "the form of chess played is speed chess in which each competitor has a total of twelve minutes for the whole game.",
+    "Simplified": "chess is played in chess. each competitor has a total of twelve minutes for the whole game.",
+    "Substitution": 2
+  },
+  {
+    "ExampleId": 954448837972062,
+    "HITId": "34D9ZRXCYRTGRHUOKX4HVSCJ2OKASO",
+    "Complex": "take the square root of the variance.",
+    "Simplified": "take the square root of the variance.",
+    "Substitution": 0
+  },
+  {
+    "ExampleId": 223149318437943,
+    "HITId": "34D9ZRXCYRTGRHUOKX4HVSCJ2OKASO",
+    "Complex": "the sheer weight of the continental icecap sitting on top of lake vostok is believed to contribute to the high oxygen concentration.",
+    "Simplified": "the sheer weight of the continental icecap is believed to contribute to the high oxygen concentration.",
+    "Substitution": 0
+  },
+  {
+    "ExampleId": 227488143423925,
+    "HITId": "34D9ZRXCYRTGRHUOKX4HVSCJ2OKASO",
+    "Complex": "below are some useful links to facilitate your involvement.",
+    "Simplified": "below are some useful links to facilitate your involvement.",
+    "Substitution": 0
+  },
+  {
+    "ExampleId": 385091946085342,
+    "HITId": "34D9ZRXCYRTGRHUOKX4HVSCJ2OKASO",
+    "Complex": "seventh sons have strong \"knacks\" (specific magical abilities), and seventh sons of seventh sons are both extraordinarily rare and powerful.",
+    "Simplified": "they have strong \"knacks\" (special magical abilities). they are seventh sons of the seven sons of the king.",
+    "Substitution": 0
+  },
+  {
+    "ExampleId": 464565915659578,
+    "HITId": "34D9ZRXCYRTGRHUOKX4HVSCJ2OKASO",
+    "Complex": "in 1963 an extension was added, curving north from union station, below university avenue and queen's park to near bloor street, where it turned west to terminate at st. george and bloor streets.",
+    "Simplified": "in 1963 an extension was added, curved north from union station, below university avenue and queen's park to near bloor street.",
+    "Substitution": 0
+  },
+  {
+    "ExampleId": 399266141166786,
+    "HITId": "34D9ZRXCYRTGRHUOKX4HVSCJ2OKASO",
+    "Complex": "his real date of birth was never recorded, but it is believed to be a date between 1935 and 1939.",
+    "Simplified": "his real birthdate was never recorded. it was believed to be a date from 1935 to 1939.",
+    "Substitution": 0
+  },
+  {
+    "ExampleId": 437020809131722,
+    "HITId": "34D9ZRXCYRTGRHUOKX4HVSCJ2OKASO",
+    "Complex": "james i appointed him a gentleman of the chapel royal, where he served as an organist from at least 1615 until his death.",
+    "Simplified": "he became a gentleman of the chapel royal. he was organist of the chapel royal from 1615 until his death.",
+    "Substitution": 0
+  },
+  {
+    "ExampleId": 317238937836039,
+    "HITId": "34D9ZRXCYRTGRHUOKX4HVSCJ2OKASO",
+    "Complex": "isbn 1-876429-14-3 is an historic township located near cowra in the central west of new south wales, australia in cabonne shire.",
+    "Simplified": "the town is in the central west of new south wales, australia. it is about 1-876429-3, near cowra.",
+    "Substitution": 0
+  },
+  {
+    "ExampleId": 887208637785369,
+    "HITId": "34D9ZRXCYRTGRHUOKX4HVSCJ2OKASO",
+    "Complex": "before the second game got underway, the press agreed that the \"midget-in-a-cake\" appearance had not been up to veeck's usual promotional standard.",
+    "Simplified": "before the second game got underway, the press agreed that the \"midget-in-a-cake\" appearance had not been up to veeck's usual promotional standard.",
+    "Substitution": 0
+  },
+  {
+    "ExampleId": 188529207142895,
+    "HITId": "34D9ZRXCYRTGRHUOKX4HVSCJ2OKASO",
+    "Complex": "roof tiles dating back to the tang dynasty with this symbol have been found west of the ancient city of chang ' an (modern-day xian).",
+    "Simplified": "roof tiles dating back to the tang dynasty have been found west of the ancient city of chang ' an (modern-day xian).",
+    "Substitution": 0
+  },
+  {
+    "ExampleId": 198220579288982,
+    "HITId": "34D9ZRXCYRTGRHUOKX4HVSCJ2OKASO",
+    "Complex": "convinced that the grounds were haunted, they decided to publish their findings in a book an adventure (1911), under the pseudonyms of elizabeth morison and frances lamont.",
+    "Simplified": "they decided to publish their findings in a book called \"elizabeth morison\". the book was published in 1911.",
+    "Substitution": 0
+  },
+  {
+    "ExampleId": 674334011535734,
+    "HITId": "34D9ZRXCYRTGRHUOKX4HVSCJ2OKASO",
+    "Complex": "the crosier symbolises the monasteries of the region.",
+    "Simplified": "the crosier symbolises the monasteries of the region.",
+    "Substitution": 0
+  },
+  {
+    "ExampleId": 974651015403629,
+    "HITId": "34D9ZRXCYRTGRHUOKX4HVSCJ2OKASO",
+    "Complex": "although the name suggests that they are located in the bernese oberland region of the canton of bern, portions of the bernese alps are in the adjacent cantons of valais, lucerne, obwalden, fribourg and vaud.",
+    "Simplified": "the name suggests that they are in the canton of berne, in the canton of bern, portions of the bernese alps are in the cantons of valais, lucerne, obwalden, fribourg and vaud.",
+    "Substitution": 0
+  },
+  {
+    "ExampleId": 851614606295360,
+    "HITId": "34D9ZRXCYRTGRHUOKX4HVSCJ2OKASO",
+    "Complex": "this was demonstrated in the miller-urey experiment by stanley l. miller and harold c. urey in 1953.",
+    "Simplified": "this was first shown in the miller-urey experiment in 1953 by stanley l. miller and harold c. urey.",
+    "Substitution": 1
+  },
+  {
+    "ExampleId": 979927921392727,
+    "HITId": "34D9ZRXCYRTGRHUOKX4HVSCJ2OKASO",
+    "Complex": "waugh writes that charles had been \"in search of love in those days\" when he first met sebastian, finding \"that low door in the wall... which opened on an enclosed and enchanted garden\", a metaphor that informs the work on a number of levels.",
+    "Simplified": "waugh writes that charles had been \"in search of love in those days\" when he first met sebastian. he found that \"that low door in the wall\" is a metaphor.",
+    "Substitution": 0
+  },
+  {
+    "ExampleId": 563113536311989,
+    "HITId": "34D9ZRXCYRTGRHUOKX4HVSCJ2OKASO",
+    "Complex": "nupedia was founded on march 9, 2000, under the ownership of bomis, inc, a web portal company.",
+    "Simplified": "nupedia was founded on march 9,2000 under the ownership of bomis, inc., a web portal company.",
+    "Substitution": 0
+  },
+  {
+    "ExampleId": 747698346548978,
+    "HITId": "34D9ZRXCYRTGRHUOKX4HVSCJ2OKASO",
+    "Complex": "by early on september 30, wind shear began to dramatically increase and a weakening trend began.",
+    "Simplified": "by early on september 30, wind shear began to dramatically increase and a weakening trend began.",
+    "Substitution": 0
+  },
+  {
+    "ExampleId": 299549789460380,
+    "HITId": "34D9ZRXCYRTGRHUOKX4HVSCJ2OKASO",
+    "Complex": "the body color varies from medium brown to gold-ish to beige-white; and occasionally, is marked with dark brown spots, especially on the limbs.",
+    "Simplified": "the body color varies from medium-brown to gold-is beige. it has dark brown spots, especially on the limbs.",
+    "Substitution": 0
+  },
+  {
+    "ExampleId": 619905421513737,
+    "HITId": "34D9ZRXCYRTGRHUOKX4HVSCJ2OKASO",
+    "Complex": "fr\u00e9d\u00e9ric chopin's opus 57 is a berceuse for solo piano.",
+    "Simplified": "frederic chopin's work \"opus 57\" is a berceuse for solo piano.",
+    "Substitution": 0
+  },
+  {
+    "ExampleId": 634894638419043,
+    "HITId": "34D9ZRXCYRTGRHUOKX4HVSCJ2OKASO",
+    "Complex": "after a brief stand-off, the wwf cavalry turned around and attacked kane and jericho.",
+    "Simplified": "after a short stand-off, the wwf cavalry turned around and attacked kane and jericho.",
+    "Substitution": 0
+  },
+  {
+    "ExampleId": 448640828488114,
+    "HITId": "34D9ZRXCYRTGRHUOKX4HVSCJ2OKASO",
+    "Complex": "furthermore, research has shown children are less likely to report a crime if it involves someone that he or she knows, trusts, and / or cares about.",
+    "Simplified": "research has shown children are less likely to report a crime if it involves someone that he or she knows, trusts, and / or cares about.",
+    "Substitution": 0
+  },
+  {
+    "ExampleId": 776878071737557,
+    "HITId": "34D9ZRXCYRTGRHUOKX4HVSCJ2OKASO",
+    "Complex": "their eyes are quite small, and their visual acuity is poor.",
+    "Simplified": "their eyes are quite small, and their eyesight is very poor.",
+    "Substitution": 1
+  },
+  {
+    "ExampleId": 286988811352283,
+    "HITId": "34D9ZRXCYRTGRHUOKX4HVSCJ2OKASO",
+    "Complex": "it continues as the bohemian switzerland in the czech republic.",
+    "Simplified": "it continues to be the bohemian switzerland in the czech republic.",
+    "Substitution": 0
+  },
+  {
+    "ExampleId": 946643875351745,
+    "HITId": "34D9ZRXCYRTGRHUOKX4HVSCJ2OKASO",
+    "Complex": "oel manga series graystripe's trilogy there is a three volume original english-language manga series following graystripe, between the time that he was taken by twolegs in dawn until he returned to thunderclan in the sight.",
+    "Simplified": "there is a three-volume manga series after graystripe's death. he was taken by twolegs in dawn until he returned to thunderclan in 1995.",
+    "Substitution": 0
+  },
+  {
+    "ExampleId": 175942317502792,
+    "HITId": "34D9ZRXCYRTGRHUOKX4HVSCJ2OKASO",
+    "Complex": "this was absorbed into battalions being formed for xi international brigade.",
+    "Simplified": "this was then merged into battalions being formed for the xi international brigade.",
+    "Substitution": 1
+  },
+  {
+    "ExampleId": 930844092397631,
+    "HITId": "34D9ZRXCYRTGRHUOKX4HVSCJ2OKASO",
+    "Complex": "military career donaldson enlisted in the australian army on 18 june 2002.",
+    "Simplified": "he joined the australian army on 18 june 2002.",
+    "Substitution": 1
+  },
+  {
+    "ExampleId": 255944623727392,
+    "HITId": "34D9ZRXCYRTGRHUOKX4HVSCJ2OKASO",
+    "Complex": "it has long been the economic centre of northern nigeria, and a centre for the production and export of groundnuts.",
+    "Simplified": "it has been economic centre of northern nigeria. it is also a centre for the production and export of groundnuts.",
+    "Substitution": 0
+  },
+  {
+    "ExampleId": 522399251899070,
+    "HITId": "34D9ZRXCYRTGRHUOKX4HVSCJ2OKASO",
+    "Complex": "terms such as \"undies\" for underwear and \"movie\" for \"moving picture\" are oft-heard terms in english.",
+    "Simplified": "the term \"undies\" for underwear and movie \"for\" moving picture \" are oft-heard in english.",
+    "Substitution": 0
+  },
+  {
+    "ExampleId": 349901433191072,
+    "HITId": "34D9ZRXCYRTGRHUOKX4HVSCJ2OKASO",
+    "Complex": "some reports read that various factors increase the likelihood of both paralysis and hallucinations.",
+    "Simplified": "some reports read that various factors increase the likelihood of both paralysis and hallucinations.",
+    "Substitution": 0
+  },
+  {
+    "ExampleId": 748414770263949,
+    "HITId": "34D9ZRXCYRTGRHUOKX4HVSCJ2OKASO",
+    "Complex": "forty-nine species of pipefish and nine species of seahorse have been recorded.",
+    "Simplified": "forty-nine species of pipefish and nine species of seahorse have been recorded.",
+    "Substitution": 0
+  },
+  {
+    "ExampleId": 278819696779534,
+    "HITId": "34D9ZRXCYRTGRHUOKX4HVSCJ2OKASO",
+    "Complex": "in a short video promoting the charity equality now joss whedon confirmed that \" fray is not done, fray is coming back.",
+    "Simplified": "in a short video promoting the charity equality now, fray is not done, fray is coming back.",
+    "Substitution": 0
+  },
+  {
+    "ExampleId": 641015647466055,
+    "HITId": "34D9ZRXCYRTGRHUOKX4HVSCJ2OKASO",
+    "Complex": "computer performance is characterized by the amount of useful work accomplished by a computer system compared to the time and resources used.",
+    "Simplified": "performance is characterized by the amount of useful work done by a computer system compared to the time and resources used.",
+    "Substitution": 0
+  },
+  {
+    "ExampleId": 573583989214412,
+    "HITId": "34D9ZRXCYRTGRHUOKX4HVSCJ2OKASO",
+    "Complex": "shi ' a muslims consider karbala to be one of their holiest cities after mecca, medina, jerusalem and najaf.",
+    "Simplified": "shi ' a muslims consider karbala to be one of their holiest cities after mecca, medina, jerusalem and najaf.",
+    "Substitution": 0
+  },
+  {
+    "ExampleId": 825574261105767,
+    "HITId": "34D9ZRXCYRTGRHUOKX4HVSCJ2OKASO",
+    "Complex": "these works he produced and published himself, whilst his much larger woodcuts were mostly commissioned work.",
+    "Simplified": "these works he produced and published himself, while his much larger woodcuts were mostly commissioned work.",
+    "Substitution": 0
+  },
+  {
+    "ExampleId": 489858229844365,
+    "HITId": "34D9ZRXCYRTGRHUOKX4HVSCJ2OKASO",
+    "Complex": "stallone also had a cameo appearance in the 2003 french film taxi 3 as a passenger.",
+    "Simplified": "stallone also had a cameo appearance in the 2003 french movie taxi 3.",
+    "Substitution": 0
+  },
+  {
+    "ExampleId": 554898814986271,
+    "HITId": "34D9ZRXCYRTGRHUOKX4HVSCJ2OKASO",
+    "Complex": "he served as the prime minister of egypt between 1945 and 1946 and again from 1946 and 1948.",
+    "Simplified": "he was prime minister of egypt from 1945 to 1946 and again from 1946 to 1948.",
+    "Substitution": 0
+  },
+  {
+    "ExampleId": 162344504139660,
+    "HITId": "34D9ZRXCYRTGRHUOKX4HVSCJ2OKASO",
+    "Complex": "characteristics radar observations indicate a fairly pure iron-nickel composition.",
+    "Simplified": "radar observations indicate a fairly pure iron-nickel composition.",
+    "Substitution": 0
+  },
+  {
+    "ExampleId": 837042174463104,
+    "HITId": "34D9ZRXCYRTGRHUOKX4HVSCJ2OKASO",
+    "Complex": "from the telephone exchange, the port jackson district commandant could communicate with all military installations on the harbour.",
+    "Simplified": "from the telephone exchange, the port jackson district commandant could communicate with all military bases on the harbour.",
+    "Substitution": 1
+  },
+  {
+    "ExampleId": 288527728551308,
+    "HITId": "34D9ZRXCYRTGRHUOKX4HVSCJ2OKASO",
+    "Complex": "finally in 1482 the order dispatched him to florence, the \u2018 city of his destiny \u2019.",
+    "Simplified": "finally in 1482 the order sent him to florence, the city of his destiny.",
+    "Substitution": 0
+  },
+  {
+    "ExampleId": 733755736314253,
+    "HITId": "34D9ZRXCYRTGRHUOKX4HVSCJ2OKASO",
+    "Complex": "it is not actually a true louse.",
+    "Simplified": "it is not actually a louse.",
+    "Substitution": 0
+  },
+  {
+    "ExampleId": 619774836574555,
+    "HITId": "34D9ZRXCYRTGRHUOKX4HVSCJ2OKASO",
+    "Complex": "giardia lamblia (synonymous with lamblia intestinalis and giardia duodenalis) is a flagellated protozoan parasite that colonises and reproduces in the small intestine, causing giardiasis.",
+    "Simplified": "the giardia lamblia (synonymous with lamblia intestinalis and giardia duodenalis) is a flagellated protozoan parasite. it reproduces and reproduces in the small intestine.",
+    "Substitution": 0
+  },
+  {
+    "ExampleId": 662148657055801,
+    "HITId": "34D9ZRXCYRTGRHUOKX4HVSCJ2OKASO",
+    "Complex": "the montreal canadiens are a professional ice hockey team based in montreal, quebec, canada.",
+    "Simplified": "the montreal canadiens are an ice hockey team that began playing in 2002. they currently play in montreal, quebec.",
+    "Substitution": 0
+  },
+  {
+    "ExampleId": 272615100334989,
+    "HITId": "34D9ZRXCYRTGRHUOKX4HVSCJ2OKASO",
+    "Complex": "moderate to severe damage extended up the atlantic coastline and as far inland as west virginia.",
+    "Simplified": "moderate to severe damage along the atlantic coastline, west virginia, and west virginia.",
+    "Substitution": -1
+  },
+  {
+    "ExampleId": 978431639157692,
+    "HITId": "34D9ZRXCYRTGRHUOKX4HVSCJ2OKASO",
+    "Complex": "a wikipedia gadget is a javascript and / or a css snippet that can be enabled simply by checking an option in your wikipedia preferences.",
+    "Simplified": "a wikipedia gadget is a javascript and css snippet. it can be used by checking an option in your wikipedia.",
+    "Substitution": 1
+  },
+  {
+    "ExampleId": 140354154522338,
+    "HITId": "34D9ZRXCYRTGRHUOKX4HVSCJ2OKASO",
+    "Complex": "in architectural decoration small pieces of colored and iridescent shell have been used to create mosaics and inlays, which have been used to decorate walls, furniture and boxes.",
+    "Simplified": "in architectural decoration, small pieces of colored and iridescent shell have been used to decorate walls, furniture and boxes.",
+    "Substitution": 0
+  },
+  {
+    "ExampleId": 550038157827607,
+    "HITId": "34D9ZRXCYRTGRHUOKX4HVSCJ2OKASO",
+    "Complex": "the depression moved inland on the 20th as a circulation devoid of convection, and dissipated the next day over brazil, where it caused heavy rains and flooding.",
+    "Simplified": "the depression moved inland on the 20th century. it later hit brazil, where it caused heavy rains and flooding.",
+    "Substitution": 0
+  },
+  {
+    "ExampleId": 209392825998147,
+    "HITId": "34D9ZRXCYRTGRHUOKX4HVSCJ2OKASO",
+    "Complex": "the upper half also resembles the coat of arms of the former district oberbarnim.",
+    "Simplified": "the upper half also resembles the coat of arms of the former district.",
+    "Substitution": 0
+  },
+  {
+    "ExampleId": 611968763046546,
+    "HITId": "34D9ZRXCYRTGRHUOKX4HVSCJ2OKASO",
+    "Complex": "the great dark spot is thought to represent a hole in the methane cloud deck of neptune.",
+    "Simplified": "the great dark spot is thought to be a hole in the methane cloud deck of neptune.",
+    "Substitution": 0
+  },
+  {
+    "ExampleId": 756268861954088,
+    "HITId": "34D9ZRXCYRTGRHUOKX4HVSCJ2OKASO",
+    "Complex": "it will then dislodge itself and sink back to the river bed in order to digest its food and wait for its next meal.",
+    "Simplified": "it will then sink itself. then it goes back to the river bed and wait for its next meal.",
+    "Substitution": 0
+  },
+  {
+    "ExampleId": 883969080387503,
+    "HITId": "34D9ZRXCYRTGRHUOKX4HVSCJ2OKASO",
+    "Complex": "some of the largest reservoirs in the world can be found along the volga.",
+    "Simplified": "some of the largest reservoirs in the world can be found along the volga.",
+    "Substitution": 0
+  },
+  {
+    "ExampleId": 551191886922339,
+    "HITId": "34D9ZRXCYRTGRHUOKX4HVSCJ2OKASO",
+    "Complex": "the term gribble was originally assigned to the wood-boring species, especially the first species described from norway by rathke in 1799, limnoria lignorum.",
+    "Simplified": "the term gribble was originally used in the wood-boring species \"limnoria lignorum\". it was first described in 1799.",
+    "Substitution": 0
+  },
+  {
+    "ExampleId": 746886846460540,
+    "HITId": "34D9ZRXCYRTGRHUOKX4HVSCJ2OKASO",
+    "Complex": "the first italian grand prix motor racing championship took place on 4 september 1921 at brescia.",
+    "Simplified": "the first italian grand prix motor racing championship was at brescia in italy on 4 september 1921.",
+    "Substitution": 0
+  },
+  {
+    "ExampleId": 512670500546225,
+    "HITId": "34D9ZRXCYRTGRHUOKX4HVSCJ2OKASO",
+    "Complex": "dr. david lindenmeyer (australian national university) has argued that the need for nest boxes indicates that logging practices are not ecologically sustainable, for conserving hollow-dependent species like leadbeater's possum.",
+    "Simplified": "david lindenmeyer (australian national university) has argued that the need for nest boxes shows that logging practices are not ecologically sustainable, for conserving hollow-dependent species like leadbeater's possum.",
+    "Substitution": 0
+  },
+  {
+    "ExampleId": 539208391710953,
+    "HITId": "34D9ZRXCYRTGRHUOKX4HVSCJ2OKASO",
+    "Complex": "eugowra is said to be named after the indigenous australian word meaning \"the place where the sand washes down the hill\".",
+    "Simplified": "eugowra is named after the indigenous australian word meaning \"the place where the sand washes down the hill\".",
+    "Substitution": 0
+  },
+  {
+    "ExampleId": 992592855767821,
+    "HITId": "34D9ZRXCYRTGRHUOKX4HVSCJ2OKASO",
+    "Complex": "later, esperanto speakers began to see the language and the culture that had grown up around it as ends in themselves, even if esperanto is never adopted by the united nations or other international organizations.",
+    "Simplified": "later, esperanto began to see the language. they grew up around it as ends in themselves.",
+    "Substitution": 0
+  },
+  {
+    "ExampleId": 909692893822927,
+    "HITId": "34D9ZRXCYRTGRHUOKX4HVSCJ2OKASO",
+    "Complex": "mercury is similar in appearance to the moon: it is heavily cratered with regions of smooth plains, has no natural satellites and no substantial atmosphere.",
+    "Simplified": "mercury is similar to the moon. it has a lot of smooth plains, and has no moons.",
+    "Substitution": 0
+  }
+]
